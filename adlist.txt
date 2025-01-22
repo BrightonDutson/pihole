@@ -1,4 +1,5 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 temu.com
 0.0.0.0 contrarianoutlook.com
-0.0.0.0 *.instructure.com
+0.0.0.0 instructure\.com
+0.0.0.0 .*\.instructure\.com
